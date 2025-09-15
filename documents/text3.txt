@@ -1,0 +1,1 @@
+Deep Learning is a subset of machine learning that uses neural networks with three or more layers. These neural networks attempt to simulate the behavior of the human brain, allowing it to "learn" from large amounts of data.
