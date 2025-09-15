@@ -6,7 +6,7 @@ Tech stack
 Python
 Streamlit – Web interface
 Ollama / Hugging Face – Embeddings & LLM integration
-Vector Store (FAISS/Chroma) – Document indexing
+Vector Store (Chroma) – Document indexing
 DuckDuckGo / Custom Search API – Web search integration
 
 Key features
