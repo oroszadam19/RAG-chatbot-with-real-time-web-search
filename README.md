@@ -17,8 +17,6 @@ Answer Generation: Use a Large Language Model (LLM) to generate coherent answers
 Source Attribution: Provide clear references to retrieved documents and web sources.
 Web Interface: Simple Streamlit UI for interactive queries and responses.
 
-
-
-
+Video about the RAG Chatbot:
 https://github.com/user-attachments/assets/c95f255e-5bd4-4aa7-b941-896120615060
 
